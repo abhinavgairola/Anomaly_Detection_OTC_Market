@@ -1,6 +1,12 @@
  <!DOCTYPE html>
 <html>
  <!--<body style="background-color: #3c3d41;">-->
+  <p align="center">
+ <img src="https://github.com/abhinavgairola/Anomaly_Detection_OTC_Market/blob/main/images/Word_Cloud_2.png" width="850" height="850" title="Word Cloud"><br>
+   <!--<p align="center">
+ <h2> Word cloud image of lending club loan descriptors</h2><br>
+ </p>-->
+ </p>
  <h2>Project Intro/Objective</h2>
 <p><a href= https://qspace.library.queensu.ca/bitstream/handle/1974/28239/David_Nam_K_202010_MSC.pdf?sequence=2&isAllowed=y>Over the past several decades, advances in technology have significantly impacted
 all aspects of the financial system. While it has led to numerous benefits, it has
