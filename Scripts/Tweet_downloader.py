@@ -7,11 +7,11 @@ import twint
 import os
 
 
-with open('Tickers.txt','r') as f:
+with open('../Txt/Tickers.txt','r') as f:
   lines= (f.readlines())
 All_cashtags=['$'+x.replace('\n','') for x in lines]
-
-
+print(All_cashtags)
+ttt
 c = twint.Config()
 #c.Username = 
 for tags in All_cashtags[0:100]:
