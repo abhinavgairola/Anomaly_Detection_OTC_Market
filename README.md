@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
  <!--<body style="background-color: #3c3d41;">-->
-  <h1>Anomaly detection, pump and dump classification in OTC market stocks using sentiment analysis</h1>
+  <h1>Anomaly detection, pump and dump classification in OTC market stocks using sentiment analysis and feature engineering of twitter feeds</h1>
  <!--# Project Name-->
  <!--### Credit default prediction using lending club data.-->
   <p align="center">
