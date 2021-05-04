@@ -5,7 +5,7 @@
  <!--# Project Name-->
  <!--### Credit default prediction using lending club data.-->
   <p align="center">
- <img src="https://github.com/abhinavgairola/Anomaly_Detection_OTC_Market/blob/main/images/Word_Cloud_2.png" width="850" height="850" title="Word Cloud"><br>
+ <img src="https://github.com/abhinavgairola/Anomaly_Detection_OTC_Market/blob/main/images/Word_Cloud_Twitter.png" width="850" height="850" title="Word Cloud"><br>
    <!--<p align="center">
  <h2> Word cloud image of lending club loan descriptors</h2><br>
  </p>-->
