@@ -24,6 +24,12 @@
  <!--<li> with some plots on <a href="https://matplotlib.org">Matplotlib</a> and <a href="https://seaborn.pydata.org">seaborn</a> </li>-->
    <!--<li> Machine learning on <a href="https://pycaret.org">Pycaret</a> and <a href="https://scikit-learn.org/stable/"> scikit-learn</a></li>-->
 </ol>
+
+<h2>The files and folders which contain the work</h2>
+<ol>
+ <li> <a href="https://colab.research.google.com/drive/1r-mkp5VDEeFGdGEJnQL1w5wSuxolEfdC?usp=sharing">Link to project report</a></li>
+ 
+ </ol>
 </body>
 </html>
 
