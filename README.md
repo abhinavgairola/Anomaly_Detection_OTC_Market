@@ -27,7 +27,7 @@
 
 <h2>The files and folders which contain the work</h2>
 <ol>
- <li> <a href="https://colab.research.google.com/drive/1r-mkp5VDEeFGdGEJnQL1w5wSuxolEfdC?usp=sharing">Link to project report</a></li>
+ <li> <a href="https://abhinavgairola.github.io/Report_2/">Link to project report</a></li>
  
  </ol>
 </body>
