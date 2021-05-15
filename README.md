@@ -27,7 +27,7 @@
 
 <h2>The files and folders which contain the work</h2>
 <ol>
- <li> <a href="https://abhinavgairola.github.io/Report_2/">Link to project report</a></li>
+ <li> <a href="https://abhinavgairola.github.io/Twitter_educates_us_about_the_stock_price_anomalies/">Link to project report</a></li>
  
  </ol>
 </body>
